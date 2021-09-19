@@ -11,10 +11,10 @@
 //}
 
 $firstList = array("John", "Jeny", "Rose", "Jack");
-$secondList = array("Adam", "Rose", "Jack", "Tyson", "Tom");
+/*$secondList = array("Adam", "Rose", "Jack", "Tyson", "Tom");
 echo "cac ten trung nhau la: ";
 for($i=0; $i<count($firstList); $i++) {
     if(in_array($firstList[$i],$secondList)){
-        echo $firstList[$i]." ";
-    }
+   <!--     echo $firstList[$i]." ";
+    } -->
 }
